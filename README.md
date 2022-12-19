@@ -2,7 +2,7 @@
 
 ## Objective: Build an app that is functionally similar to this: https://25--5-clock.freecodecamp.rocks.
 
-Last challenge for getting Freecodecamp Development Libraries Ceertification 
+Last challenge for getting Freecodecamp Development Libraries Certification 
 
 
 ![Captura de pantalla (148)](https://user-images.githubusercontent.com/97048366/208548752-d4f28fc7-0bfb-40ad-999b-202e2336dee3.png)
